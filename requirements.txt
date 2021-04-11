@@ -2,3 +2,7 @@ Flask==1.1.1
 spleeter==2.2.1
 gunicorn==19.9.0
 youtube_dl==2021.4.7
+pypianoroll
+torch
+argparse
+mido
